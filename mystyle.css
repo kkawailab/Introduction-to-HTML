@@ -3,6 +3,8 @@ header {
     width: 100%;
     background: black;
     color: wheat;
+    font-size: 48px;
+    text-align: center;
 }
 
 aside {
@@ -18,8 +20,9 @@ ul {
 
 main {
     height: 750px;
-    width: 70%;
+    width: 65%;
     float: left;
+    margin-left: 5%;
 }
 
 table {
